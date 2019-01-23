@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesPat_Decorator", "DesPat_Decorator\DesPat_Decorator.csproj", "{21AD0DF1-00B0-499B-9CCD-216F0313FFE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21AD0DF1-00B0-499B-9CCD-216F0313FFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21AD0DF1-00B0-499B-9CCD-216F0313FFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21AD0DF1-00B0-499B-9CCD-216F0313FFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21AD0DF1-00B0-499B-9CCD-216F0313FFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EA3AC7B-DD1E-48B1-A636-F661FC6E9599}
+	EndGlobalSection
+EndGlobal

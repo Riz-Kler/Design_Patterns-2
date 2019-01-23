@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator_Bank", "Mediator_Bank\Mediator_Bank.csproj", "{2C0A9F24-D658-452D-961D-0D96FD33CCA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento_Undo_Redo", "Memento_Undo_Redo\Memento_Undo_Redo.csproj", "{5ECD2163-F034-4733-82AF-F04F94577ED2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C0A9F24-D658-452D-961D-0D96FD33CCA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0A9F24-D658-452D-961D-0D96FD33CCA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0A9F24-D658-452D-961D-0D96FD33CCA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0A9F24-D658-452D-961D-0D96FD33CCA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ECD2163-F034-4733-82AF-F04F94577ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECD2163-F034-4733-82AF-F04F94577ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECD2163-F034-4733-82AF-F04F94577ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECD2163-F034-4733-82AF-F04F94577ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C64540C4-3C0A-436C-B27E-B9C3AF740A33}
+	EndGlobalSection
+EndGlobal

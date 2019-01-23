@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight_Users", "Flyweight\Flyweight_Users.csproj", "{2E64C8CF-C0F1-455E-91BF-5D7BA112F77D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EBF26796-96E1-4C98-BA1D-7E51FACB6538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight_TextFormatting", "Flyweight_TextFormatting\Flyweight_TextFormatting.csproj", "{87E3A5E5-28CE-4166-BF18-380FB3BCE5F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E64C8CF-C0F1-455E-91BF-5D7BA112F77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E64C8CF-C0F1-455E-91BF-5D7BA112F77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E64C8CF-C0F1-455E-91BF-5D7BA112F77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E64C8CF-C0F1-455E-91BF-5D7BA112F77D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87E3A5E5-28CE-4166-BF18-380FB3BCE5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E3A5E5-28CE-4166-BF18-380FB3BCE5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E3A5E5-28CE-4166-BF18-380FB3BCE5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E3A5E5-28CE-4166-BF18-380FB3BCE5F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BD915A5-0649-4E60-8276-CC8EB402399C}
+	EndGlobalSection
+EndGlobal
